@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_albums"
+        android:icon="@drawable/album"
+        android:enabled="true"
+        android:title="albums"
+        />
+    <item
+        android:id="@+id/action_posts"
+        android:enabled="true"
+        android:icon="@drawable/post"
+        android:title="posts"
+        />
+</menu>
